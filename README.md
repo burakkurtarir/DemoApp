@@ -3,7 +3,7 @@ DemoApp with React Native
 
 ## Uygulamayı çalıştırmak için
 Projeyi indiriniz.
-DemoApp klasörü içine giriniz ve npm start komutunu çalıştırınız.
+DemoApp klasörü içine(yani projenin içine) giriniz ve npm start komutunu çalıştırınız.
 
 ## Projedeki dosyalar hakkında kısa bilgi
 fakeDatas klasörünün içinde adından da anlaşılacağı üzere test amaçlı fake json verileri bulunmaktadır.
