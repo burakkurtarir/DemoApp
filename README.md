@@ -7,8 +7,8 @@ DemoApp klasörü içine(yani projenin içine) giriniz ve npm start komutunu ça
 
 ## Projedeki dosyalar hakkında kısa bilgi
 fakeDatas klasörünün içinde adından da anlaşılacağı üzere test amaçlı fake json verileri bulunmaktadır.
-images klasöründe resimler.
-assets klasöründe animasyon dosyaları(json tipinde).
-components içinde sayfalar ve bileşenler bulunmaktadır.
+images klasöründe resimler,
+assets klasöründe animasyon dosyaları(json tipinde),
+components içinde ekranlar ve bileşenler bulunmaktadır.
 
-Expo cli kullanılarak geliştirilmiştir.
+Proje expo cli kullanılarak geliştirilmiştir.
